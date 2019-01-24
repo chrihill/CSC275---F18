@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543527833 source:h:\csc275\labs\csc275_chrihill_lab10\main.cpp
+	<iostream>
+	<string>
+

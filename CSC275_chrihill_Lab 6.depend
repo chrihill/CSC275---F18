@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1540334464 source:h:\csc275\labs\csc275_chrihill_lab 6\main.cpp
+	<iostream>
+	"Person.h"
+
+1539900882 h:\csc275\labs\csc275_chrihill_lab 6\include\person.h
+	<string>
+
+1540329212 source:h:\csc275\labs\csc275_chrihill_lab 6\src\person.cpp
+	"Person.h"
+	<sstream>
+
+1540331591 source:h:\csc275\labs\csc275_chrihill_lab 6\src\student.cpp
+	"Student.h"
+
+1540331597 h:\csc275\labs\csc275_chrihill_lab 6\include\student.h
+	<Person.h>
+
+1540330437 source:h:\csc275\labs\csc275_chrihill_lab 6\src\studentgrade.cpp
+	"StudentGrade.h"
+
+1540331597 h:\csc275\labs\csc275_chrihill_lab 6\include\studentgrade.h
+	<Student.h>
+
+1540331707 source:h:\csc275\labs\csc275_chrihill_lab 6\src\teacher.cpp
+	"Teacher.h"
+
+1540331657 h:\csc275\labs\csc275_chrihill_lab 6\include\teacher.h
+	<Person.h>
+
+1540338064 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\labs\csc275_chrihill_lab 6\main.cpp
+	<iostream>
+	"Person.h"
+
+1539904482 c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\labs\csc275_chrihill_lab 6\include\person.h
+	<string>
+
+1540332812 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\labs\csc275_chrihill_lab 6\src\person.cpp
+	"Person.h"
+	<sstream>
+
+1540338486 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\labs\csc275_chrihill_lab 6\src\student.cpp
+	"Student.h"
+
+1540338012 c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\labs\csc275_chrihill_lab 6\include\student.h
+	<Person.h>
+
+1540338502 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\labs\csc275_chrihill_lab 6\src\teacher.cpp
+	"Teacher.h"
+
+1540338012 c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\labs\csc275_chrihill_lab 6\include\teacher.h
+	<Person.h>
+
+1540340338 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\labs\csc275_chrihill_lab 6\src\studentgrade.cpp
+	"StudentGrade.h"
+
+1540338012 c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\labs\csc275_chrihill_lab 6\include\studentgrade.h
+	<Student.h>
+

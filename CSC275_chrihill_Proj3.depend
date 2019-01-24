@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1543543251 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\projects\csc275_chrihill_proj3\src\card.cpp
+	"Card.h"
+
+1543534963 c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\projects\csc275_chrihill_proj3\include\card.h
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<ctime>
+
+1543543468 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\projects\csc275_chrihill_proj3\src\player.cpp
+	"Player.h"
+
+1543520160 c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\projects\csc275_chrihill_proj3\include\player.h
+	<iostream>
+	<vector>
+	<string>
+	<stdlib.h>
+	"Card.h"
+
+1543543495 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\projects\csc275_chrihill_proj3\main.cpp
+	<iostream>
+	<vector>
+	"Player.h"
+	"HandyPlayer.h"
+	"PokerPlayer.h"
+	"Card.h"
+
+1543540411 c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\projects\csc275_chrihill_proj3\include\handyplayer.h
+	<Player.h>
+	<iostream>
+
+1543540035 c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\projects\csc275_chrihill_proj3\include\pokerplayer.h
+	<HandyPlayer.h>
+	<iostream>
+
+1543543468 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\projects\csc275_chrihill_proj3\src\pokerplayer.cpp
+	"PokerPlayer.h"
+
+1543543551 source:c:\users\serenity\documents\college\2018 classes\csc-275-probelm solving and programming 2\projects\csc275_chrihill_proj3\src\handyplayer.cpp
+	"HandyPlayer.h"
+

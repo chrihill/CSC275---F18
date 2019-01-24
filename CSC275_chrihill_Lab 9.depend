@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1542315999 source:h:\csc275\lecture materials\lecture 17\csc275_chrihill_lab 9\main.cpp
+	<iostream>
+	<string>
+	"studentList.h"
+
+1542316052 h:\csc275\lecture materials\lecture 17\csc275_chrihill_lab 9\include\studentlist.h
+	<iostream>
+	<string>
+	"Node.h"
+
+1542316015 h:\csc275\lecture materials\lecture 17\csc275_chrihill_lab 9\include\node.h
+	<iostream>
+	<string>
+
+1542316036 source:h:\csc275\lecture materials\lecture 17\csc275_chrihill_lab 9\src\node.cpp
+	"Node.h"
+	<iostream>
+	<string>
+
+1542318652 source:h:\csc275\lecture materials\lecture 17\csc275_chrihill_lab 9\src\studentlist.cpp
+	"studentList.h"
+	<iostream>
+	<string>
+

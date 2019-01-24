@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1539119731 source:h:\csc275\labs\lab 5\inventory.cpp
+	<iostream>
+	<string>
+	"Inventory.h"
+	"InvItem.h"
+
+1539119698 h:\csc275\labs\lab 5\inventory.h
+	<iostream>
+	"InvItem.h"
+
+1539119831 h:\csc275\labs\lab 5\invitem.h
+	<iostream>
+	<string>
+
+1539119584 source:h:\csc275\labs\lab 5\invitem.cpp
+	<iostream>
+	<string>
+	"InvItem.h"
+

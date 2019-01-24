@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1540937427 source:h:\csc275\labs\csc275_chrihill_lab 7\main.cpp
+	<iostream>
+	"Polygon.h"
+	"Rectangle.h"
+	"Triangle.h"
+
+1540937666 h:\csc275\labs\csc275_chrihill_lab 7\include\polygon.h
+	<iostream>
+
+1540933776 h:\csc275\labs\csc275_chrihill_lab 7\include\rectangle.h
+	<iostream>
+	<Polygon.h>
+
+1540933769 h:\csc275\labs\csc275_chrihill_lab 7\include\triangle.h
+	<iostream>
+	<Polygon.h>
+
+1540936369 source:h:\csc275\labs\csc275_chrihill_lab 7\src\polygon.cpp
+	<iostream>
+	"Polygon.h"
+
+1540934222 source:h:\csc275\labs\csc275_chrihill_lab 7\src\rectangle.cpp
+	<iostream>
+	"Polygon.h"
+	"Rectangle.h"
+
+1540934222 source:h:\csc275\labs\csc275_chrihill_lab 7\src\triangle.cpp
+	<iostream>
+	"Polygon.h"
+	"Triangle.h"
+
